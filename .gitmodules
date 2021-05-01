@@ -1,0 +1,3 @@
+[submodule "bevy-source"]
+	path = bevy-source
+	url = ./bevy-source

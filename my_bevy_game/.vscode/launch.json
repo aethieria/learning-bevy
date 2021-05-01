@@ -1,0 +1,13 @@
+{
+    "configurations": [
+    {
+        "type": "gdb",
+        "request": "launch",
+        "name": "Launch Program",
+        "target": "${workspaceFolder}/target/debug/my_bevy_game",
+        "cwd": "${workspaceRoot}",
+        "valuesFormatting": "parseText",
+        "internalConsoleOptions": "openOnSessionStart"
+    }
+    ]
+}
